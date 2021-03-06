@@ -1,0 +1,21 @@
+body{
+    background: rgb(99, 5, 187);
+background: linear-gradient(80deg, rgba(128, 18, 191, 0.919) 0%, rgb(133, 17, 148) 12%, rgb(95, 16, 75) 27%, rgb(78, 9, 24) 51%, rgb(93, 6, 6) 67%, rgb(170, 3, 176) 84%, rgba(255, 0, 85, 0.936) 100%);
+    font-size: 1.8em;
+    color: rgb(255, 255, 255);
+}
+
+.text-center{
+    text-align: center;
+    text-shadow: 10px 10px 20px;
+    filter: shadow-text(Color=#000000, Direction=45, Strength=4);
+}
+
+.out{
+    width: 60%;
+    margin: 15px auto;
+}
+
+.out video{
+    width: 100%;
+}
